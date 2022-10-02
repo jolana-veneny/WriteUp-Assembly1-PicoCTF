@@ -21,7 +21,7 @@ The key part in the main function is this:
 ```
 	cmp	w0, 0			# if the cmp (compare) function between w0 and 0
 	bne	.L4			# is NOT true (bne - branch if not equal) it will take us to L4
-	adrp	x0, .LC0		# if it it IS true it will take us to .LC0
+	adrp	x0, .LC0		# if it IS true it will take us to .LC0
 	add	x0, x0, :lo12:.LC0
 ```
 
