@@ -1,4 +1,4 @@
-## WriteUp-Assembly1-PicoCTF
+## WriteUp: Assembly1 PicoCTF
 A writeup of a short Assembly exercise
 
 This picoCTF challenge is about testing your assembly reading skills and the original is at [this website.](https://play.picoctf.org/practice/challenge/111?category=3&page=1&search=) 
