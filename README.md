@@ -5,7 +5,7 @@ This picoCTF challenge is about testing your assembly reading skills and the ori
 
 These are the instructions:
 
-For what argument does this program print `win` with variables 81, 0 and 3? File: chall_1.S Flag format: picoCTF{XXXXXXXX} -> (hex, lowercase, no 0x, and 32 bits. ex. 5614267 would be picoCTF{0055aabb})
+> For what argument does this program print `win` with variables 81, 0 and 3? File: chall_1.S Flag format: picoCTF{XXXXXXXX} -> (hex, lowercase, no 0x, and 32 bits. ex. 5614267 would be picoCTF{0055aabb})
 
 When you open the chall_1.S file in a text editor, this is what you will see: 
 
